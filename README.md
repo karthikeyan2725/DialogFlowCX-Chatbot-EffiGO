@@ -1,4 +1,4 @@
-### Building a EffiGO ChatBot with GCP Diagflow CX:
+### Building a EffiGO ChatBot with GCP Dialogflow CX:
 
 #### Build an Agent with Flows:
 ##### Flow Basics:
